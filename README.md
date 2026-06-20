@@ -7,7 +7,6 @@ A standalone, user-friendly Node.js web application for automating the addition 
 - **Automated SUTS Navigation**: Uses Puppeteer to seamlessly log in and add locations to your SUTS account.
 - **Smart Parsing**: Paste any mix of comma or line-separated jurisdiction names and codes. The app will intelligently map them to the proper jurisdiction codes.
 - **Self-Collected vs State**: Automatically differentiates and correctly adds state vs. self-collected locations based on an internal curated dictionary.
-- **Add ALL Option**: Automatically queue up all 134+ known Colorado jurisdictions.
 - **Premium Web UI**: Watch your automation run in real-time through a beautiful, user-friendly web interface with live streaming terminal logs.
 
 ## Prerequisites
