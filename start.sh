@@ -12,10 +12,8 @@ then
     exit 1
 fi
 
-if [ ! -d "node_modules" ]; then
-    echo "📦 Installing dependencies..."
-    npm install
-fi
+echo "📦 Checking/installing dependencies..."
+npm install
 
 echo "🚀 Starting application..."
 npm start
