@@ -226,6 +226,7 @@ async function waitForNetworkSettled(page, { timeout = 15000, idleMs = 500 } = {
 async function runPuppeteer(username, password, parsedCodes, startDate, addAll) {
     const browser = await puppeteer.launch({
         headless: false,
+        channel: 'chrome',
         defaultViewport: null,
         args: ['--start-maximized']
     });
