@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Colorado Sucks. Let's Add Locations.</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="background-anim"></div>
+    <main class="glass-panel">
+        <header>
+            <h1>Colorado Sucks.</h1>
+            <p class="subtitle">Let's Add Locations.</p>
+            <p class="desc">Automated bulk location adder for CO SUTS</p>
+        </header>
+
+        <form id="runner-form">
+            <div class="credentials-section">
+                <div class="input-group">
+                    <label for="username">SUTS Username</label>
+                    <input type="email" id="username" placeholder="user@example.com" required>
+                </div>
+                <div class="input-group">
+                    <label for="password">SUTS Password</label>
+                    <input type="password" id="password" placeholder="••••••••" required>
+                </div>
+            </div>
+
+            <div class="input-group">
+                <label for="start-date">State Start Date (MM/DD/YYYY)</label>
+                <input type="text" id="start-date" placeholder="01/01/2025" required>
+            </div>
+
+            <div class="input-group parse-section">
+                <label for="locations">Locations (Paste names, codes, comma or line separated)</label>
+                <textarea id="locations" rows="6" placeholder="Denver, 04-0017&#10;Boulder, 10006..."></textarea>
+                
+                <div class="checkbox-group">
+                    <input type="checkbox" id="add-all">
+                    <label for="add-all">Add ALL Known Colorado Locations</label>
+                </div>
+                
+                <div class="parsed-preview" id="parsed-preview" style="display: none;">
+                    <span id="parsed-count">0</span> jurisdictions detected.
+                </div>
+            </div>
+
+            <button type="submit" id="start-btn" class="glow-button">Start Automation</button>
+        </form>
+
+        <div class="terminal-section" id="terminal-section" style="display: none;">
+            <div class="terminal-header">
+                <span>Execution Log</span>
+                <span class="status-indicator"></span>
+            </div>
+            <div class="terminal-content" id="terminal-content">
+                <!-- Logs appear here -->
+            </div>
+        </div>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>

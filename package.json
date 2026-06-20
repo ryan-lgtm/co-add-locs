@@ -1,0 +1,14 @@
+{
+  "name": "colorado_locations_app",
+  "version": "1.0.0",
+  "description": "Colorado Sucks. Let's Add Locations.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "puppeteer": "^21.0.0",
+    "open": "^9.1.0"
+  }
+}

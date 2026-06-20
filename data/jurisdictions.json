@@ -1,0 +1,538 @@
+{
+  "DENVER": {
+    "code": "10006",
+    "is_self_collected": true
+  },
+  "AURORA": {
+    "code": "100001",
+    "is_self_collected": true
+  },
+  "FORT COLLINS": {
+    "code": "60031",
+    "is_self_collected": false
+  },
+  "BROOMFIELD": {
+    "code": "100001",
+    "is_self_collected": false
+  },
+  "AVON": {
+    "code": "440003",
+    "is_self_collected": true
+  },
+  "BOULDER": {
+    "code": "70003",
+    "is_self_collected": true
+  },
+  "LONGMONT": {
+    "code": "30156",
+    "is_self_collected": true
+  },
+  "DURANGO": {
+    "code": "200014",
+    "is_self_collected": true
+  },
+  "PARKER": {
+    "code": "470016",
+    "is_self_collected": true
+  },
+  "HIGHLANDS RANCH": {
+    "code": "100001",
+    "is_self_collected": false
+  },
+  "COLORADO SPRINGS": {
+    "code": "40017",
+    "is_self_collected": true
+  },
+  "LITTLETON": {
+    "code": "100011",
+    "is_self_collected": true
+  },
+  "ARVADA": {
+    "code": "110004",
+    "is_self_collected": true
+  },
+  "WESTMINSTER": {
+    "code": "110142",
+    "is_self_collected": true
+  },
+  "THORNTON": {
+    "code": "120044",
+    "is_self_collected": true
+  },
+  "CENTENNIAL": {
+    "code": "100040",
+    "is_self_collected": true
+  },
+  "CASTLE ROCK": {
+    "code": "470002",
+    "is_self_collected": true
+  },
+  "GRAND JUNCTION": {
+    "code": "80018",
+    "is_self_collected": true
+  },
+  "LOVELAND": {
+    "code": "60049",
+    "is_self_collected": true
+  },
+  "NORTHGLENN": {
+    "code": "120054",
+    "is_self_collected": true
+  },
+  "COMMERCE CITY": {
+    "code": "120055",
+    "is_self_collected": true
+  },
+  "WHEAT RIDGE": {
+    "code": "110124",
+    "is_self_collected": true
+  },
+  "LAKEWOOD": {
+    "code": "110059",
+    "is_self_collected": true
+  },
+  "GREELEY": {
+    "code": "30057",
+    "is_self_collected": true
+  },
+  "PUEBLO": {
+    "code": "20043",
+    "is_self_collected": true
+  },
+  "ASPEN": {
+    "code": "100001",
+    "is_self_collected": false
+  },
+  "VAIL": {
+    "code": "440060",
+    "is_self_collected": true
+  },
+  "BRECKENRIDGE": {
+    "code": "610001",
+    "is_self_collected": true
+  },
+  "STEAMBOAT SPRINGS": {
+    "code": "280049",
+    "is_self_collected": true
+  },
+  "MONUMENT": {
+    "code": "40057",
+    "is_self_collected": true
+  },
+  "FIRESTONE": {
+    "code": "100001",
+    "is_self_collected": false
+  },
+  "FREDERICK": {
+    "code": "100001",
+    "is_self_collected": false
+  },
+  "ERIE": {
+    "code": "100001",
+    "is_self_collected": false
+  },
+  "LOUISVILLE": {
+    "code": "70041",
+    "is_self_collected": true
+  },
+  "LAFAYETTE": {
+    "code": "70034",
+    "is_self_collected": true
+  },
+  "SUPERIOR": {
+    "code": "100001",
+    "is_self_collected": false
+  },
+  "WINDSOR": {
+    "code": "30142",
+    "is_self_collected": true
+  },
+  "JOHNSTOWN": {
+    "code": "100001",
+    "is_self_collected": false
+  },
+  "MEAD": {
+    "code": "100001",
+    "is_self_collected": false
+  },
+  "DACONO": {
+    "code": "30028",
+    "is_self_collected": true
+  },
+  "NIWOT": {
+    "code": "100001",
+    "is_self_collected": false
+  },
+  "GUNBARREL": {
+    "code": "100001",
+    "is_self_collected": false
+  },
+  "ELDORADO SPRINGS": {
+    "code": "100001",
+    "is_self_collected": false
+  },
+  "JAMESTOWN": {
+    "code": "100001",
+    "is_self_collected": false
+  },
+  "WARD": {
+    "code": "100001",
+    "is_self_collected": false
+  },
+  "NEDERLAND": {
+    "code": "100001",
+    "is_self_collected": false
+  },
+  "ROLLINSVILLE": {
+    "code": "100001",
+    "is_self_collected": false
+  },
+  "BLACK HAWK": {
+    "code": "600004",
+    "is_self_collected": true
+  },
+  "CENTRAL CITY": {
+    "code": "600005",
+    "is_self_collected": true
+  },
+  "IDAHO SPRINGS": {
+    "code": "100001",
+    "is_self_collected": false
+  },
+  "GEORGETOWN": {
+    "code": "100001",
+    "is_self_collected": false
+  },
+  "SILVER PLUME": {
+    "code": "100001",
+    "is_self_collected": false
+  },
+  "EMPIRE": {
+    "code": "100001",
+    "is_self_collected": false
+  },
+  "DOWNIEVILLE": {
+    "code": "100001",
+    "is_self_collected": false
+  },
+  "SILVERTHORNE": {
+    "code": "610017",
+    "is_self_collected": true
+  },
+  "DILLON": {
+    "code": "100001",
+    "is_self_collected": false
+  },
+  "FRISCO": {
+    "code": "610007",
+    "is_self_collected": true
+  },
+  "COPPER MOUNTAIN": {
+    "code": "100001",
+    "is_self_collected": false
+  },
+  "LEADVILLE": {
+    "code": "100001",
+    "is_self_collected": false
+  },
+  "BUENA VISTA": {
+    "code": "100001",
+    "is_self_collected": false
+  },
+  "SALIDA": {
+    "code": "100001",
+    "is_self_collected": false
+  },
+  "CANON CITY": {
+    "code": "140008",
+    "is_self_collected": true
+  },
+  "FLORENCE": {
+    "code": "100001",
+    "is_self_collected": false
+  },
+  "PENROSE": {
+    "code": "100001",
+    "is_self_collected": false
+  },
+  "ROCKVALE": {
+    "code": "100001",
+    "is_self_collected": false
+  },
+  "WILLIAMSBURG": {
+    "code": "100001",
+    "is_self_collected": false
+  },
+  "COAL CREEK": {
+    "code": "100001",
+    "is_self_collected": false
+  },
+  "GUFFEY": {
+    "code": "100001",
+    "is_self_collected": false
+  },
+  "CRIPPLE CREEK": {
+    "code": "100001",
+    "is_self_collected": false
+  },
+  "VICTOR": {
+    "code": "100001",
+    "is_self_collected": false
+  },
+  "GOLDFIELD": {
+    "code": "100001",
+    "is_self_collected": false
+  },
+  "DIVIDE": {
+    "code": "100001",
+    "is_self_collected": false
+  },
+  "WOODLAND PARK": {
+    "code": "430026",
+    "is_self_collected": true
+  },
+  "GREEN MOUNTAIN FALLS": {
+    "code": "100001",
+    "is_self_collected": false
+  },
+  "CASCADE": {
+    "code": "100001",
+    "is_self_collected": false
+  },
+  "MANITOU SPRINGS": {
+    "code": "100001",
+    "is_self_collected": false
+  },
+  "SECURITY": {
+    "code": "100001",
+    "is_self_collected": false
+  },
+  "WIDEFIELD": {
+    "code": "100001",
+    "is_self_collected": false
+  },
+  "FOUNTAIN": {
+    "code": "100001",
+    "is_self_collected": false
+  },
+  "FORT CARSON": {
+    "code": "100001",
+    "is_self_collected": false
+  },
+  "PEYTON": {
+    "code": "100001",
+    "is_self_collected": false
+  },
+  "CALHAN": {
+    "code": "100001",
+    "is_self_collected": false
+  },
+  "RUSH": {
+    "code": "100001",
+    "is_self_collected": false
+  },
+  "ELLICOTT": {
+    "code": "100001",
+    "is_self_collected": false
+  },
+  "YODER": {
+    "code": "100001",
+    "is_self_collected": false
+  },
+  "RAMAH": {
+    "code": "100001",
+    "is_self_collected": false
+  },
+  "SIMLA": {
+    "code": "100001",
+    "is_self_collected": false
+  },
+  "MATHESON": {
+    "code": "100001",
+    "is_self_collected": false
+  },
+  "HUGO": {
+    "code": "100001",
+    "is_self_collected": false
+  },
+  "LIMON": {
+    "code": "100001",
+    "is_self_collected": false
+  },
+  "GENOA": {
+    "code": "100001",
+    "is_self_collected": false
+  },
+  "STRATTON": {
+    "code": "100001",
+    "is_self_collected": false
+  },
+  "BURLINGTON": {
+    "code": "100001",
+    "is_self_collected": false
+  },
+  "FLAGLER": {
+    "code": "100001",
+    "is_self_collected": false
+  },
+  "SEIBERT": {
+    "code": "100001",
+    "is_self_collected": false
+  },
+  "VONA": {
+    "code": "100001",
+    "is_self_collected": false
+  },
+  "BETHUNE": {
+    "code": "100001",
+    "is_self_collected": false
+  },
+  "KIRK": {
+    "code": "100001",
+    "is_self_collected": false
+  },
+  "KARVAL": {
+    "code": "100001",
+    "is_self_collected": false
+  },
+  "ARRIBA": {
+    "code": "100001",
+    "is_self_collected": false
+  },
+  "BRIGHTON": {
+    "code": "120008",
+    "is_self_collected": true
+  },
+  "BROOMFIELD (CD ONLY)": {
+    "code": "640005",
+    "is_self_collected": true
+  },
+  "BROOMFIELD (RTD AND CD)": {
+    "code": "640001",
+    "is_self_collected": true
+  },
+  "BROOMFIELD (RTD, CD, AND ARISTA LOCAL IMPROVEMENT DIST)": {
+    "code": "640006",
+    "is_self_collected": false
+  },
+  "BROOMFIELD (RTD, CD, AND FLATIRON LOCAL IMPROVEMENT DIST)": {
+    "code": "640007",
+    "is_self_collected": false
+  },
+  "CARBONDALE": {
+    "code": "240007",
+    "is_self_collected": true
+  },
+  "CASTLE PINES": {
+    "code": "470043",
+    "is_self_collected": true
+  },
+  "CHERRY HILLS VLG (MAIL VIA ENGLEWOOD)": {
+    "code": "100031",
+    "is_self_collected": true
+  },
+  "CORTEZ": {
+    "code": "320005",
+    "is_self_collected": true
+  },
+  "CRAIG": {
+    "code": "420004",
+    "is_self_collected": true
+  },
+  "CRESTED BUTTE": {
+    "code": "400017",
+    "is_self_collected": true
+  },
+  "EDGEWATER": {
+    "code": "110032",
+    "is_self_collected": true
+  },
+  "ENGLEWOOD": {
+    "code": "100006",
+    "is_self_collected": true
+  },
+  "EVANS": {
+    "code": "30041",
+    "is_self_collected": true
+  },
+  "FEDERAL HEIGHTS": {
+    "code": "120016",
+    "is_self_collected": true
+  },
+  "FT COLLINS": {
+    "code": "60031",
+    "is_self_collected": true
+  },
+  "GLENDALE": {
+    "code": "100033",
+    "is_self_collected": true
+  },
+  "GLENWOOD SPRINGS": {
+    "code": "240016",
+    "is_self_collected": true
+  },
+  "GOLDEN": {
+    "code": "110042",
+    "is_self_collected": true
+  },
+  "GREENWOOD VILLAGE": {
+    "code": "100034",
+    "is_self_collected": true
+  },
+  "GUNNISON": {
+    "code": "400027",
+    "is_self_collected": true
+  },
+  "GYPSUM": {
+    "code": "440026",
+    "is_self_collected": true
+  },
+  "LAMAR": {
+    "code": "170017",
+    "is_self_collected": true
+  },
+  "LONE TREE (ORIGINAL)": {
+    "code": "470031",
+    "is_self_collected": true
+  },
+  "MONTROSE": {
+    "code": "210011",
+    "is_self_collected": true
+  },
+  "MOUNTAIN VILLAGE": {
+    "code": "500010",
+    "is_self_collected": true
+  },
+  "MT CRESTED BUTTE": {
+    "code": "400073",
+    "is_self_collected": true
+  },
+  "RIDGWAY": {
+    "code": "560017",
+    "is_self_collected": true
+  },
+  "RIFLE": {
+    "code": "240035",
+    "is_self_collected": true
+  },
+  "SHERIDAN": {
+    "code": "100020",
+    "is_self_collected": true
+  },
+  "SNOWMASS VILLAGE (MAIL VIA ASPEN)": {
+    "code": "570019",
+    "is_self_collected": true
+  },
+  "STERLING": {
+    "code": "130029",
+    "is_self_collected": true
+  },
+  "TIMNATH": {
+    "code": "60077",
+    "is_self_collected": true
+  },
+  "WINTER PARK": {
+    "code": "530024",
+    "is_self_collected": true
+  }
+}
