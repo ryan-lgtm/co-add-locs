@@ -41,6 +41,6 @@ This is a local Node.js application that uses Express for the backend web server
    The Puppeteer scripts rely on specific CSS selectors, IDs, and ARIA labels present in the CO SUTS portal (e.g., `input[id="username"]`, `._modalView_10vsv_31 button[id^="radix-"]`, `button._base_m151b_1._button_m151b_64`). If the automation fails to click or type, the SUTS portal HTML has likely changed, and these selectors will need to be updated in `server.js`.
 
 4. **Launcher:**
-   The `start.sh` wrapper handles ensuring dependencies are installed and booting the Node server. `server.js` uses the `open` library to automatically launch the default browser to `http://localhost:3000` as soon as the Express server starts listening.
+   The `start.sh` wrapper handles ensuring dependencies are installed and booting the Node server. `server.js` uses the `open` library to automatically launch the default browser to `http://localhost:48921` as soon as the Express server starts listening.
 
 Happy coding!

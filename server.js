@@ -5,7 +5,7 @@ const path = require('path');
 const { parse } = require('url');
 
 const app = express();
-const port = 3000;
+const port = 48921;
 
 app.use(express.json());
 app.use(express.static(path.join(__dirname, 'public')));

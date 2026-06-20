@@ -40,7 +40,7 @@ The easiest way to start the application is by using the bundled launcher script
    ```cmd
    npm start
    ```
-5. The browser should automatically open to `http://localhost:3000`.
+5. The browser should automatically open to `http://localhost:48921`.
 
 ## Manual Dictionary Generation
 
