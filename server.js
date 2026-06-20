@@ -114,7 +114,7 @@ app.post('/api/parse', (req, res) => {
         const clean = item.trim();
         if (!clean) return;
 
-        const codeMatch = clean.match(/\b\d{2}-?\d{4}\b/);
+        const codeMatch = clean.match(/\b\d{1,2}-?\d{4}\b|\b\d{4,6}\b/);
         if (codeMatch) {
             const code = codeMatch[0].replace(/-/g, '').replace(/^0+/, '');
             codeSet.add(code);
